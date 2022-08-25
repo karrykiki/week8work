@@ -1,0 +1,35 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.6",
+    "hardhat": "^2.10.2"
+  },
+  "dependencies": {
+    "chai-as-promised": "^7.1.1",
+    "dotenv": "^16.0.1"
+  },
+  "description": "A random number casino for use on Ethereum blockchains.",
+  "version": "1.0.0",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoinmanLabs/ROAD3_WEEK08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoinmanLabs/ROAD3_WEEK08/issues"
+  },
+  "homepage": "https://github.com/CoinmanLabs/ROAD3_WEEK08#readme"
+}
